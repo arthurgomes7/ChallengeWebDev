@@ -11,7 +11,7 @@ function Project(){
                     <h2 className='font-semibold text-2xl text-center py-2 sm:text-start md:text-3xl'>
                         Triagem Rápida
                     </h2>
-                    <p className='text-center py-3 sm:text-base text-start md:text-start text-xl'>O totem faz perguntas simples e objetivas sobre os sintomas do paciente, coletando as informações necessárias para encaminhá-lo à especialidade correta.
+                    <p className='text-center py-3 sm:text-start text-base md:text-xl text-start '>O totem faz perguntas simples e objetivas sobre os sintomas do paciente, coletando as informações necessárias para encaminhá-lo à especialidade correta.
                     Isso torna o processo mais rápido, organizado e eficiente, mesmo sem a presença imediata de um profissional de saúde. O paciente consegue ser direcionado com mais agilidade, diminuindo o tempo de espera e ajudando o hospital a organizar melhor o fluxo de atendimento.</p>
                 </div>
                 <img src={triagem} alt="Modelo de Página de Triagem" className='rounded-2xl sm:w-64 md:w-64'/>
