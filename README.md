@@ -8,7 +8,7 @@ Este projeto tem como principal objetivo otimizar o tempo e o trabalho de funcio
 
 1. Abra o projeto no VSCode.
 2. Abra um terminal.
-3. Execute o comando: `cd ./challengeWeb`
+3. Execute o comando: `cd .\challengeWeb\`
 4. Execute o comando: `npm run dev`
 5. Acesse o link do Localhost que será gerado.
 
